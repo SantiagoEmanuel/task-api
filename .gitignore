@@ -1,0 +1,4 @@
+venvTask
+__pycache__
+task-database.sqlite3
+.vscode
